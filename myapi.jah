@@ -1,0 +1,3 @@
+int myapi_hello() {
+	sys:print("hello from myapi");
+}
