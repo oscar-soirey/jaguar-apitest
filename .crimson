@@ -3,5 +3,3 @@ friendly-name = "My Api"
 version = "1.1.0"
 
 [dependencies]
-glfw = ">=1.0.0"
-math = "^2.1.0"
